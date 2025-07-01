@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/quizarena-94549-4a7dc954/quizrealm_frontend"
+}
